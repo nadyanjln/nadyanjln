@@ -136,12 +136,12 @@ I consistently pursue professional development through ongoing coursework and ha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadyanajelina&show_icons=true&theme=dark&hide_border=true&title_color=30dca0&icon_color=30dca0&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadyanajelina&layout=compact&theme=dark&hide_border=true&title_color=30dca0&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadyanjln&show_icons=true&theme=dark&hide_border=true&title_color=30dca0&icon_color=30dca0&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadyanjln&layout=compact&theme=dark&hide_border=true&title_color=30dca0&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadyanajelina&theme=dark&hide_border=true&background=0d1117&ring=30dca0&fire=30dca0&currStreakLabel=30dca0&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadyanjln&theme=dark&hide_border=true&background=0d1117&ring=30dca0&fire=30dca0&currStreakLabel=30dca0&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 </p>
 
 ---
