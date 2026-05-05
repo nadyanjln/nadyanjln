@@ -68,31 +68,10 @@ I consistently pursue professional development through ongoing coursework and ha
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS Cloud" /><br>AWS Cloud
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" /><br>JQuery
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>Raspberrypi
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase
     </td>
@@ -101,20 +80,6 @@ I consistently pursue professional development through ongoing coursework and ha
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /><br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=perl" width="48" height="48" alt="Perl" /><br>Perl
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron JS" /><br>Electron JS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Vuforia" /><br>Vuforia
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask
