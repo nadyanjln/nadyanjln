@@ -104,8 +104,8 @@ I consistently pursue professional development through ongoing coursework and ha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nadyanjln&show_icons=true&theme=dark&hide_border=true&title_color=30dca0&icon_color=30dca0&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nadyanjln&layout=compact&theme=dark&hide_border=true&title_color=30dca0&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadyanjln&show_icons=true&theme=dark&hide_border=true&title_color=30dca0&icon_color=30dca0&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadyanjln&layout=compact&theme=dark&hide_border=true&title_color=30dca0&text_color=ffffff&bg_color=0d1117&cache_seconds=86400" />
 </p>
 
 <p align="center">
