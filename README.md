@@ -1,16 +1,220 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nadya Najelina Salsabillah 👋</h1>
 
-<!--
-**nadyanjln/nadyanjln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=30DCA0&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer+%26+Mobile+Developer;Flutter+%7C+Python+%7C+DBMS+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-30DCA0?style=flat-square&labelColor=0d1117&color=30dca0" />
+  <img src="https://img.shields.io/badge/Building%20in%20Public-79c0ff?style=flat-square&labelColor=0d1117&color=79c0ff" />
+  <img src="https://img.shields.io/badge/Indonesia%20🇮🇩-d2a8ff?style=flat-square&labelColor=0d1117&color=d2a8ff" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+Early in my journey, I discovered a strong passion for **UI/UX design**, where I enjoyed crafting user-centered experiences with tools like **Figma**. This passion inspired me to explore **mobile development with Flutter** and strengthen my technical expertise in **Python** and **Database Management System (DBMS)**.
+
+I consistently pursue professional development through ongoing coursework and hands-on projects, applying creative problem-solving and collaborative skills to deliver innovative solutions that address real-world challenges.
+
+---
+
+## ⚙️ My Favorite Tools and Technologies
+
+> Tools and technologies that I have worked with and am interested in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue JS" />
+      <br>Vue JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="REST" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt JS" />
+      <br>Nuxt JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
+      <br>Rails
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS Cloud" />
+      <br>AWS Cloud
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
+      <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+      <br>Raspberrypi
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=perl" width="48" height="48" alt="Perl" />
+      <br>Perl
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron JS" />
+      <br>Electron JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Vuforia" />
+      <br>Vuforia
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=alibaba" width="48" height="48" alt="Alibaba Cloud" />
+      <br>Alibaba Cloud
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React JS" />
+      <br>React JS
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadyanajelina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30dca0&icon_color=30dca0&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadyanajelina&theme=github-dark-blue&hide_border=true&background=0d1117&ring=30dca0&fire=30dca0&currStreakLabel=30dca0" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadyanajelina&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30dca0&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadyanajelina&color=30dca0&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <i>💚 Available for collaboration — let's build something great together!</i>
+</p>
